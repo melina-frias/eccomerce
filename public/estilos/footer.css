@@ -70,13 +70,13 @@
 }
 
 .copyright {
-    color: var(--ColorTextoPrincipal);
     font-size: .75rem;
     width: 35%;
-    line-height: 28px;
+    line-height: 1.75rem;
 }
 
 .copyright p{
+    color: var(--ColorTextoPrincipal);
     margin-bottom: 0;
 }
 .copyright a:hover{

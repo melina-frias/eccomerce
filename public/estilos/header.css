@@ -1,6 +1,6 @@
 .header {
     padding-top: 1%;
-    height: 59px;
+    height: 3.6875rem;
     position: absolute;
     top: 0;
     z-index: 100;
@@ -39,6 +39,7 @@
     text-decoration: none;
     color: var(--ColorTextoPrincipal);
     font-size: .875rem;
+    font-weight: bold;
 }
 
 .enlaces:hover {
@@ -97,7 +98,7 @@
         width: 40%;
         height: 80vh;
         position: absolute;
-        top: 59px;
+        top: 3.6875rem;
         right: 2%;
         gap: 1.25rem;
         background-color: var(--ColorTextoPrincipal);
@@ -105,7 +106,7 @@
       }
     
       .active a {
-        font-size: 20px;
+        font-size: 1.25rem;
         text-align: center;
         margin: 0;
         color: #000;

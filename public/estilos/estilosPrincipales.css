@@ -122,6 +122,7 @@ h1 {
 }
 
 
+
 @media(max-width:768px) {
   .contenedorBox {
     padding-top: 5%;
@@ -156,6 +157,7 @@ h1 {
   .boxRight,
   .boxDown {
     width: 100%;
+    margin-bottom: 10%;
   }
 
 }

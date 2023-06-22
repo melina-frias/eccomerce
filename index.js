@@ -26,6 +26,14 @@ app.get('/', (req, res) => {
     res.render('home')
 })
 
+app.get('/diseniadores', (req, res) => {
+    res.render('diseniadores')
+})
+
+app.get('/carreras',(req,res) => {
+    res.render('carreras')
+})
+
 app.get('*/',(req,res)=>{
     res.render('error')
 })

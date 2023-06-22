@@ -25,7 +25,7 @@
 .imgEmotions {
     display: flex;
     justify-content: space-between;
-    height: 250px;
+    height: 15.625rem;
 }
 .imgEmotions:first-child{
     width: 43%;
